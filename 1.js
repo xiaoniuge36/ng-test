@@ -63,11 +63,11 @@
 // console.log(...a.matchAll(/A-Z/));
 
 
-  // let str = 'test1test2';
+// let str = 'test1test2';
 
-  // // console.log([...str.matchAll(/t/g)][0]);
-  // // console.log([...str.matchAll(/t/g)][1]);
-  // console.log( ...str.matchAll(/t/g));
+// // console.log([...str.matchAll(/t/g)][0]);
+// // console.log([...str.matchAll(/t/g)][1]);
+// console.log( ...str.matchAll(/t/g));
 // console.log( [...str.matchAll(/t/)]);
 
 // let a = "aBcd";
@@ -87,7 +87,7 @@
 
 // console.log(a.raw());
 // let a="aBcd"
- 
+
 // let str2=a.repeat(2)
 //  console.log(a.repeat(2));
 // console.log(str2) //qweqwe
@@ -133,6 +133,6 @@
 // console.log( myString.split(" ").join(" "));
 
 let a = "abcdaabd";
-console.log(a.replaceAll(/a/g, 'ff' ));
-console.log(a.replaceAll('a', 'ff' ));
-console.log(a.replaceAll(/a/, 'ff' ));
+console.log(a.replaceAll(/a/g, 'ff'));
+console.log(a.replaceAll('a', 'ff'));
+console.log(a.replaceAll(/a/, 'ff'));
